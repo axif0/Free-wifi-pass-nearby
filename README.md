@@ -21,7 +21,10 @@ Please note that this script is intended for educational and informational purpo
    ```bash
    git clone https://github.com/axif0/Free-wifi-pass-nearby.git
    ```
-After that `cd free-wifi-pass`,
+After that
+```bash 
+         cd Free-wifi-pass-nearby
+ ```
 then click right side of your mouse then select administration and then run auto.bat. it should show the available wifi network with pass. IF ERRor or not showing anything then fill free to msg 
 Also,
 The script will display a list of available WiFi networks stored on your system. Select a network by entering its corresponding number.
