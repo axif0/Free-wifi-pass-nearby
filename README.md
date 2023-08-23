@@ -25,7 +25,7 @@ After that
 ```bash 
          cd Free-wifi-pass-nearby
  ```
-Simply click it or 
+Simply ```click auto.bat``` or 
 click right side of your mouse then select administration and then run auto.bat. it should show the available wifi network with pass.
 If you want use vs code terminal
 IF ERRor or not showing anything then fill free to msg 
