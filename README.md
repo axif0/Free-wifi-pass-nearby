@@ -19,7 +19,7 @@ Please note that this script is intended for educational and informational purpo
 1. Clone this repository to your local machine or download the `auto.bat` script.
    
    ```bash
-   git clone https://github.com/your-username/free-wifi-pass.git
+   git clone https://github.com/axif0/free-wifi-pass.git
    ```
 After that cd free-wifi-pass then click right side of your mouse then select administration and then run auto.bat. it should show the available wifi network with pass. IF ERRor or not showing anything then fill free to msg 
 
